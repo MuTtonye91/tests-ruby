@@ -1,3 +1,8 @@
+Pair-programming project :
+==========
+Nakrys YOULHA
+==========
+
 Small exercices in Ruby -- RSpec 3 Edition
 ==========
 
