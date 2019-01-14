@@ -1,6 +1,6 @@
 Pair-programming project :
 ==========
-Nakrys YOULHA - Murielle TONGTONYE - Mélanie NGUON
+Nakrys YOULHA - Murielle TONG TONYE - Mélanie NGUON
 ==========
 
 Small exercices in Ruby -- RSpec 3 Edition
