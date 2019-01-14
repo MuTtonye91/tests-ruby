@@ -14,10 +14,11 @@ def multiply (x, y)
 	return x * y
 end
 
-def power
-
+def power (x,y)
+ 	result = (x**y)
+ 	return result
 end
 
-def factorial
-
+def factorial(x)
+	return (1..x).inject(:*) || 1		
 end
