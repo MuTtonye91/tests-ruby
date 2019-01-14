@@ -26,6 +26,6 @@ end
 
 #6 Capitalize the first word of each word
 def titleize(sentence)
-    little_words = ['the','a', 'an', 'and']
-    return sentence.split.map.with_index {|word, i| if (little_words.include?(word) && i!=0) then word else word.capitalize end}.join(" ")
+    little_words = ['the','a', 'an', 'and'] # Définition des little_words
+    return sentence.split.map.with_index {|word, i| if (little_words.include?(word) && i!=0) then word else word.capitalize end}.join(" ") # Met en majuscule toutes les première lettres de chaques mots en excluant les little_words qui ont un indice différent de 0
 end
